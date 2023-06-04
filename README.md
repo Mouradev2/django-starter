@@ -4,7 +4,7 @@
 ## Features :point_down: :point_down: :point_down:
 
 - Django 4.2 & Python 3.11
-- Install via [Pip](https://pypi.org/project/pip/) or [Docker](https://www.docker.com/)
+- Install via [Pip](https://pypi.org/project/pip/) 
 - User log in/out, sign up, password reset via [django-allauth](https://github.com/pennersr/django-allauth)
 - Static files configured with [Whitenoise](http://whitenoise.evans.io/en/stable/index.html)
 - Styling with [Bootstrap v5](https://getbootstrap.com/)
@@ -64,7 +64,7 @@ $ source .venv/bin/activate
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! See [CONTRIBUTING.md](https://github.com/Mouradev2/django-starter.git/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome! See [CONTRIBUTING.md](https://github.com/Mouradev2/django-starter/blob/main/CONTRIBUTING.md).
 
 ## ⭐️ Support
 
@@ -74,6 +74,6 @@ Give a ⭐️  if you find this project helpfull!
 
 [The MIT License](LICENSE)
 
-## :boom: Other Django project source codes
+## 💥 Other Django project source codes
 Feel free to visit my github repository [title](https://github.com/Mouradev2).
-You may find your next django project inspiration :bulb: , source codes for multiples types of projects are availables!
+You may find your next django project inspiration 💡 , source codes for multiples types of projects are availables!
