@@ -1,5 +1,5 @@
 > A Django starter project. 
-
+![alt text](Screenshot.png)
 
 ## Features :point_down: :point_down: :point_down:
 
@@ -28,7 +28,7 @@ Django staret can be installed via Pip.
 To start, clone the repo to your local computer and change into the proper directory.
 
 ```
-$ git clone https://github.com/.../django-starter.git
+$ git clone https://github.com/Mouradev2/django-starter.git
 $ cd django_starter
 ```
 
@@ -64,7 +64,7 @@ $ source .venv/bin/activate
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! See [CONTRIBUTING.md](https://github.com/.../CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome! See [CONTRIBUTING.md](https://github.com/Mouradev2/django-starter.git/CONTRIBUTING.md).
 
 ## ⭐️ Support
 
@@ -74,6 +74,6 @@ Give a ⭐️  if you find this project helpfull!
 
 [The MIT License](LICENSE)
 
-
 ## :boom: Other Django project source codes
-Feel free to visit my github repository , you may find your next django project inspiration :bulb: , source codes for multiples types of projects are availables!
+Feel free to visit my github repository [title](https://github.com/Mouradev2).
+You may find your next django project inspiration :bulb: , source codes for multiples types of projects are availables!
